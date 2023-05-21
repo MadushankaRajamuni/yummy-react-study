@@ -1,0 +1,13 @@
+.image-slide{
+    border-radius: 2%;
+    margin-bottom: 1rem;
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+    border: red;
+    box-shadow: var(--dark-shadow);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
